@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JJDrill/galvanize_warroom#readme",
   "dependencies": {
+    "axios": "^0.9.1",
     "express": "^4.13.4",
     "mongodb": "^1.4.40",
     "monk": "^1.0.1",
